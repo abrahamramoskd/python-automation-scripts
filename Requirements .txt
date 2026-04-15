@@ -1,0 +1,10 @@
+# Dependencias opcionales — solo instala las que necesites
+
+# Para 03_enviar_correos.py
+python-dotenv>=1.0.0
+
+# Para 04_monitor_precios.py
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Los demás scripts solo usan la librería estándar de Python (no necesitan instalación)
